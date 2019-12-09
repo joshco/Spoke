@@ -53,6 +53,9 @@ If you see someone who is making an extra effort to ensure our community is welc
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks and presentations.
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+* Use of position, power, or authority to suppress complaints, participate in discriminatory behavior and retaliate against marginalized communities confronting discriminatory behavior or practices, including use of the legal system in self-defense.
+* Disparate Treatment - Elevating one or more marginalized communities above others and allowing them to engage in discriminatory behavior, or silence the voices of others, failing to recognize that there are always multiple sides to a conflict between marginalized communities.  
+* Covert Aggression - Bullying by engaging in covert, unseen aggression or harm, individually or coordinated with others, to bait or provoke self-defense responses and then reporting it as unprovoked aggression.
 
 ### Consequences of Unacceptable Behavior
 
